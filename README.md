@@ -10,6 +10,7 @@
 - 🎮 I also play a lot of Destiny 2 in my free time
 
 ### Spotify 🎧
+[<img src="https://spotify-now-playing-nine-phi.vercel.app/api/spotify-playing" alt="PhilRoli Spotify Playing" width="350" />](https://open.spotify.com/user/ammunation57)
 
 ### Socials & where to find me:
 [<img align="left" alt="Phil_Roli | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
