@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/phil_roli?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhilRoli&screen_name=Phil_Roli)
 
-## I'm a Student from Austria🇦🇹, who likes to code in his free Time.
+## I'm a Student from Austria :austria: , who likes to code in his free Time.
 
 - 💡 I'm currently learning Python & Java
 - 👯 Any feedback about my code is welcome, since I'm still learning
