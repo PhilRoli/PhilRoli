@@ -1,7 +1,7 @@
 ### Hey there, I'm Phil 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/phil_roli?color=blue&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhilRoli&screen_name=Phil_Roli)
-[![HitCount](http://hits.dwyl.com/PhilRoli/PhilRoli.svg)](http://hits.dwyl.com/PhilRoli/PhilRoli)
+[HitCount](http://hits.dwyl.com/PhilRoli/PhilRoli.svg)
 
 ## I'm a Student from Austria, who likes to code in his free Time.
 
