@@ -9,7 +9,7 @@
 - 📝 2020 / 21 Goals: Continue working on my Programming Skills
 - 🎮 I also play a lot of Destiny 2 in my free time
 
-### [Spotify 🎧][spotify]
+### Spotify [🎧][spotify]
 [<img src="https://spotify-now-playing-nine-phi.vercel.app/api/spotify" alt="PhilRoli Spotify Playing" width="350" />](https://open.spotify.com/user/ammunation57)
 
 ### Socials & where to find me:
