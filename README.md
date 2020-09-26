@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="75%" height="50%" src="https://i.imgur.com/Oh61IGr.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/WK5rqZi.png" height="175px"/></a>
 </p>
 
 <h3 align="center">Hey there, I'm Phil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h3>
