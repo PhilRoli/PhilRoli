@@ -69,7 +69,7 @@ https://github.com/codestackr -> Generall scheme & look
 [spotify]: https://open.spotify.com/user/ammunation57
 [vscode]: https://code.visualstudio.com/download
 [python]: https://github.com/PhilRoli/Python-Mini-Projects
-[java]: https://github.com/PhilRoli
+[java]: https://github.com/PhilRoli/School20-21
 [git]: https://git-scm.com/
 [github]: https://github.com/PhilRoli
 [terminal]: https://github.com/PhilRoli/Batch_Scripts
