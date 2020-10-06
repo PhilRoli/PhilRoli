@@ -28,16 +28,18 @@ https://github.com/codestackr -> Generall scheme & look
 <br />
 
 ## Spotify [🎧][spotify]
+
 [<img src="https://spotify-now-playing-nine-phi.vercel.app/api/spotify" alt="PhilRoli Spotify Playing" width="350" />][spotify]
 
-## 🙋‍♂️ Socials & where to find me:
+## 🙋‍♂️ Socials & where to find me
+
 <a href="https://www.youtube.com/channel/UCEuyg6hLcZ7LW2sciGPUOWg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://twitter.com/Phil_Roli"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/philroli/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 
 <br />
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
