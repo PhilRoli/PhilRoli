@@ -61,7 +61,8 @@ https://github.com/codestackr -> Generall scheme & look
 
 <br />
 <br />
-<br />
+
+---
 
 <details>
     <summary>⚡ Github Stats</summary>
