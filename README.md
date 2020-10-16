@@ -50,6 +50,16 @@ https://github.com/codestackr -> Generall scheme & look
 
 <br />
 <br />
+
+### Side-Languages (not using a lot or learning)
+
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
+
+<br />
+<br />
 <br />
 
 <details>
@@ -75,3 +85,5 @@ https://github.com/codestackr -> Generall scheme & look
 [git]: https://git-scm.com/
 [github]: https://github.com/PhilRoli
 [terminal]: https://github.com/PhilRoli/Batch_Scripts
+[demo-websites]: https://github.com/PhilRoli/demo_websites
+[DB-RoliTheBot]: https://github.com/PhilRoli/DB_RoliTheBot
