@@ -57,6 +57,7 @@ https://github.com/codestackr -> Generall scheme & look
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][electron]
 
 <br />
 <br />
@@ -87,3 +88,4 @@ https://github.com/codestackr -> Generall scheme & look
 [terminal]: https://github.com/PhilRoli/Batch_Scripts
 [demo-websites]: https://github.com/PhilRoli/demo_websites
 [DB-RoliTheBot]: https://github.com/PhilRoli/DB_RoliTheBot
+[electron]: https://github.com/PhilRoli/ElectronApps
