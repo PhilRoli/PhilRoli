@@ -13,7 +13,7 @@ https://github.com/codestackr -> Generall scheme & look
 <p align="center">
     <a href="https://twitter.com/Phil_Roli"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Phil_Roli?color=1DA1F2&label=Followers&logo=twitter&logoColor=1DA1F2&style=flat-square"/></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/PhilRoli"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=PhilRoli&style=flat-square&color=7C007C"/></a>
+    <a href="https://github.com/PhilRoli"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=PhilRoli&style=flat-square&color=f42069"/></a>
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/phil_roli?color=blue&logo=twitter&style=flat-square)][twitterfollow]
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=philroli)][github] -->
 </p>
