@@ -20,7 +20,7 @@ https://github.com/codestackr -> Generall scheme & look
 
 ## I'm a Student from Austria, who likes to code in his free Time & for School
 
-- 💡 I'm currently learning Python & Java
+- 💡 I'm currently mostly working on my [Disocrd Bot](https://github.com/PhilRoli/DB_RoliTheBot_v2), but doing java for school
 - 👯 Since I'm still learning, any feedback about my code is welcome
 - 📝 2020 / 21 Goals: Continue working on my Programming Skills
 - 🎮 I also play a lot of <a href="https://www.bungie.net/en/Profile/254/17392259">Destiny 2</a> in my free time
