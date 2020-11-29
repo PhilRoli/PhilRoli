@@ -11,10 +11,10 @@ https://github.com/codestackr -> Generall scheme & look
 <h3 align="center"><b>Hey there, I'm Philipp aka Roli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
 <p align="center">
-    <a href="https://twitter.com/Phil_Roli"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Phil_Roli?color=1DA1F2&label=Followers&logo=twitter&logoColor=1DA1F2&style=flat-square"/></a>
+    <a href="https://twitter.com/PhilRoli"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/PhilRoli?color=1DA1F2&label=Followers&logo=twitter&logoColor=1DA1F2&style=flat-square"/></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/PhilRoli"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=PhilRoli&style=flat-square&color=f42069"/></a>
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/phil_roli?color=blue&logo=twitter&style=flat-square)][twitterfollow]
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/PhilRoli?color=blue&logo=twitter&style=flat-square)][twitterfollow]
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=philroli)][github] -->
 </p>
 
@@ -34,15 +34,15 @@ https://github.com/codestackr -> Generall scheme & look
 ## 🙋‍♂️ Socials & where to find me
 
 <a href="https://www.youtube.com/channel/UCEuyg6hLcZ7LW2sciGPUOWg"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://twitter.com/Phil_Roli"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/PhilRoli"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/philroli/"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/-Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 
 <br />
 
 ## 👨‍💻 Languages and Tools
 
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
+[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -53,7 +53,7 @@ https://github.com/codestackr -> Generall scheme & look
 
 ### Side-Languages (not using a lot or learning)
 
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
@@ -76,8 +76,8 @@ https://github.com/codestackr -> Generall scheme & look
 </details>
 
 <!-- Links Used, Ignore -->
-[twitter]: https://twitter.com/Phil_Roli
-[twitterfollow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhilRoli&screen_name=Phil_Roli
+[twitter]: https://twitter.com/PhilRoli
+[twitterfollow]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhilRoli&screen_name=PhilRoli
 [instagram]: https://instagram.com/philroli
 [youtube]: https://www.youtube.com/channel/UCEuyg6hLcZ7LW2sciGPUOWg
 [spotify]: https://open.spotify.com/user/ammunation57
@@ -88,5 +88,5 @@ https://github.com/codestackr -> Generall scheme & look
 [github]: https://github.com/PhilRoli
 [terminal]: https://github.com/PhilRoli/Batch_Scripts
 [demo-websites]: https://github.com/PhilRoli/demo_websites
-[DB-RoliTheBot]: https://github.com/PhilRoli/DB_RoliTheBot
+[DB-RoliTheBot]: https://github.com/PhilRoli/DB_RoliTheBot_v2
 [electron]: https://github.com/PhilRoli/ElectronApps
