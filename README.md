@@ -1,7 +1,7 @@
 <!-- ReadMe Insperatiosn:
 https://github.com/anuraghazra/github-readme-stats -> GitHub Stats
 https://github.com/denvercoder1 -> Shields & Socials
-https://github.com/codestackr -> Generall scheme & look
+https://github.com/codestackr -> Generall look
 -->
 
 <p align="center">
@@ -42,7 +42,7 @@ https://github.com/codestackr -> Generall scheme & look
 ## 👨‍💻 Languages and Tools
 
 [<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot]
+[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -54,10 +54,11 @@ https://github.com/codestackr -> Generall scheme & look
 ### Side-Languages (not using a lot or learning)
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
-[<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][electron]
+[<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
+[<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
+[<img align="left" alt="C Plus Plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
+<!-- [<img align="left" alt="Electron" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][electron] -->
+<!-- [<img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot] -->
 
 <br />
 <br />
@@ -83,7 +84,9 @@ https://github.com/codestackr -> Generall scheme & look
 [spotify]: https://open.spotify.com/user/ammunation57
 [vscode]: https://code.visualstudio.com/download
 [python]: https://github.com/PhilRoli/Python-Mini-Projects
-[java]: https://github.com/PhilRoli/School20-21
+[java]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_Java
+[cpp]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_CPP
+[c]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_C
 [git]: https://git-scm.com/
 [github]: https://github.com/PhilRoli
 [terminal]: https://github.com/PhilRoli/Batch_Scripts
