@@ -20,10 +20,8 @@ https://github.com/codestackr -> Generall look
 
 ## I'm a Student from Austria, who likes to code in his free Time & for School
 
-- 💡 I'm currently mostly working on my [Disocrd Bot](https://github.com/PhilRoli/DB_RoliTheBot_v2), but doing java for school
+- 💡 I'm currently mostly doing stuff for school in C++, which you can find [here!](https://github.com/PhilRoli/School_21_22)
 - 👯 Since I'm still learning, any feedback about my code is welcome
-- 📝 2020 / 21 Goals: Continue working on my Programming Skills
-- 🎮 I also play a lot of <a href="https://www.bungie.net/en/Profile/254/17392259">Destiny 2</a> in my free time
 
 <br />
 
@@ -41,7 +39,7 @@ https://github.com/codestackr -> Generall look
 
 ## 👨‍💻 Languages and Tools
 
-[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
+[<img align="left" alt="C Plus Plus" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][DB-RoliTheBot]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
@@ -51,12 +49,13 @@ https://github.com/codestackr -> Generall look
 <br />
 <br />
 
-### Side-Languages (not using a lot or learning)
+### Side-Languages (Not doing a lot of stuff in these latly)
 
+[<img align="left" alt="Assembly" width="30px" src="https://user-images.githubusercontent.com/53784551/116347565-41178100-a80e-11eb-94da-3f08d89b0425.png" />][assembly]
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][java]
 [<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][demo-websites]
 [<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][demo-websites]
-[<img align="left" alt="C Plus Plus" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 <!-- [<img align="left" alt="Electron" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][electron] -->
 <!-- [<img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][DB-RoliTheBot] -->
 
@@ -85,7 +84,7 @@ https://github.com/codestackr -> Generall look
 [vscode]: https://code.visualstudio.com/download
 [python]: https://github.com/PhilRoli/Python-Mini-Projects
 [java]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_Java
-[cpp]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_CPP
+[cpp]: https://github.com/PhilRoli/School_21_22
 [c]: https://github.com/PhilRoli/School20-21/tree/master/S20-21_C
 [git]: https://git-scm.com/
 [github]: https://github.com/PhilRoli
@@ -93,3 +92,4 @@ https://github.com/codestackr -> Generall look
 [demo-websites]: https://github.com/PhilRoli/demo_websites
 [DB-RoliTheBot]: https://github.com/PhilRoli/DB_RoliTheBot_v2
 [electron]: https://github.com/PhilRoli/ElectronApps
+[assembly]: https://github.com/PhilRoli/School_21_22
