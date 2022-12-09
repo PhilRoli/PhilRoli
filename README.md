@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="https://i.imgur.com/rwbRL2i.png" style="border-radius:25px" align="center" />
+<img src="https://i.imgur.com/rwbRL2i.png" style="border-radius:25px" align="center" />
 
 ## About me
 
